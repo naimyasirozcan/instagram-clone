@@ -2,7 +2,7 @@
 
 ## patika.dev assignment
 
-![instagram clone](https://imgbox.com/N47INExl)
+![instagram clone](https://github.com/naimyasirozcan/instagram-clone/blob/main/gif/instagram-clone.gif?raw=true)
 
 ---
 
